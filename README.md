@@ -9,8 +9,10 @@
 ### Connect with me:
 - Pkbs.a | [instagram]
 - Siranut Akarawuthi | [facebook]
+- Siranut Akarawuthi | [linkedin]
 
 
 [gluaymunchkin]: https://www.instagram.com/gluaymunchkin/
 [instagram]: https://www.instagram.com/pkbs.a/
 [facebook]: https://www.facebook.com/siranut.akarawuthi/
+[linkedin]: https://www.linkedin.com/in/siranut-akarawuthi-8baa301b4/
