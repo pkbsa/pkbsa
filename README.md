@@ -7,4 +7,4 @@
 - I'm trying to contribute to more project
 
 
-[gluaymunchkin] : https://www.instagram.com/gluaymunchkin/
+[gluaymunchkin]: https://www.instagram.com/gluaymunchkin/
