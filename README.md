@@ -7,8 +7,8 @@
 - I'm trying to contribute to more project
 
 ### Connect with me:
-- Pkbs.a [instagram]
-- Siranut Akarawuthi [facebook]
+- Pkbs.a | [instagram]
+- Siranut Akarawuthi | [facebook]
 
 
 [gluaymunchkin]: https://www.instagram.com/gluaymunchkin/
