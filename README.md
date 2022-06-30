@@ -1,5 +1,5 @@
 
-<img width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="gluay.gif"></img>
+<img style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="gluay.gif"></img>
 
 
 ### 👋 Hi there, My name is Poko :) - and my pfp is my cat [gluaymunchkin]
