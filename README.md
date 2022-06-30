@@ -12,7 +12,7 @@
 - Siranut Akarawuthi | [facebook]
 - Siranut Akarawuthi | [linkedin]
 
-[website]: www.pkbsa.com/
+[website]: http://pkbsa.com/
 [gluaymunchkin]: https://www.instagram.com/gluaymunchkin/
 [instagram]: https://www.instagram.com/pkbs.a/
 [facebook]: https://www.facebook.com/siranut.akarawuthi/
