@@ -3,7 +3,7 @@
 
 <img src="gluay.gif"></img>
 
-## I'm currently a Student
+## I'm currently Looking for a project to work on
 - 👉🏼 I'm currently a 3rd-Year Student at Faculty of Information and Communication Technology (ICT Mahidol)
 - 🔥 I'm currently trying to learning everything 
 - 🔎 I'm looking to collaborate with other content creator
