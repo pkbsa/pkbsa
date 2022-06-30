@@ -1,4 +1,4 @@
-<a href="https://imgflip.com/gif/6leo92">via Imgflip</a>
+<a href="https://imgflip.com/gif/6leo92"><img src="https://imgflip.com/gif/6leo92.gif" title="img"/></a>
 
 ### 👋 Hi there, My name is Poko :) - and my pfp is my cat [gluaymunchkin]
 
