@@ -7,12 +7,12 @@
 - 🙋‍♂️ I'm trying to contribute to more project
 
 ### Connect with me:
-- Website | [personal]
+- Personal Website | [website]
 - Pkbs.a | [instagram]
 - Siranut Akarawuthi | [facebook]
 - Siranut Akarawuthi | [linkedin]
 
-[personal]: www.http://pkbsa.com/
+[website]: www.pkbsa.com/
 [gluaymunchkin]: https://www.instagram.com/gluaymunchkin/
 [instagram]: https://www.instagram.com/pkbs.a/
 [facebook]: https://www.facebook.com/siranut.akarawuthi/
