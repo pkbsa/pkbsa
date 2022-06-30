@@ -1,8 +1,7 @@
 
-<img style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="gluay.gif"></img>
-
-
 ### 👋 Hi there, My name is Poko :) - and my pfp is my cat [gluaymunchkin]
+
+<img src="gluay.gif"></img>
 
 ## I'm currently a Student
 - 👉🏼 I'm currently a 3rd-Year Student at Faculty of Information and Communication Technology (ICT Mahidol)
