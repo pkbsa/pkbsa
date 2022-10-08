@@ -26,9 +26,6 @@
 |  **Thai Citizen**   | Thai Citizens can use the services via the website. They are required to authenticate themselves before using the website. They can mark their favorite dog to adopt from the dog list. And request to adopt it. |                                                                                                    
 |  **Organization Staff**   |  Organization staff need to record the dog information into the system since the first day that dog arrived. They are also required to record every dog treatment including recording the practicing program. They need to authenticate the adopter before adopting the dog. They will select the adopter to adopt the dog in case that has many adopters to adopt the dog.  |                                                                                                     
 | **Admin Staff** |                           Admin staff can view the basic report                            |
-
 | **Eligible Sponsor** | Eligible Sponsors require to register before login to the system to manage their brand manner. |
-
 | **Police Criminal Record Service** | Helps confirm the profile of the adopter by sending back their criminal record. |
-
 | **Blacklist NGO Database Service** | Helps confirm the profile of the adopter by sending back their blacklist status. |
