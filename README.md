@@ -23,14 +23,16 @@
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Actors</th>
+    <th>Roles</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Thai Citizen</td>
+      <td>Organization Staff</td>
+    <td>Admin Staff</td>
+    <td>Eligible Sponsor</td>
+    <td>Police Criminal Record Service</td>
+    <td>Blacklist NGO Database Service</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
