@@ -21,22 +21,8 @@
 [facebook]: https://www.facebook.com/siranut.akarawuthi/
 [linkedin]: https://www.linkedin.com/in/siranut-akarawuthi-8baa301b4/
 
-<table>
-  <tr>
-    <th>Actors</th>
-    <th>Roles</th>
-  </tr>
-  <tr>
-    <td>Thai Citizen</td>
-      <td>Organization Staff</td>
-    <td>Admin Staff</td>
-    <td>Eligible Sponsor</td>
-    <td>Police Criminal Record Service</td>
-    <td>Blacklist NGO Database Service</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-</table>
+|            |                         uncompressed                         |                                                                                                                                 compressed                                                                                                                                 |
+| :--------: | :----------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  **CSS**   | [🔗](https://unpkg.com/tableexport/dist/css/tableexport.css) |                                                                                                      [🔗](https://unpkg.com/tableexport/dist/css/tableexport.min.css)                                                                                                      |
+|   **JS**   |  [🔗](https://unpkg.com/tableexport/dist/js/tableexport.js)  |                                                                                                       [🔗](https://unpkg.com/tableexport/dist/js/tableexport.min.js)                                                                                                       |
+| **Images** |                           &mdash;                            | [🔗<sup>xlsx</sup>](https://unpkg.com/tableexport/dist/img/xlsx.svg)[🔗<sup>xls</sup>](https://unpkg.com/tableexport/dist/img/xls.svg)[🔗<sup>csv</sup>](https://unpkg.com/tableexport/dist/img/csv.svg)[🔗<sup>txt</sup>](https://unpkg.com/tableexport/dist/img/txt.svg) |
