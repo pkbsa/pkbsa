@@ -25,26 +25,16 @@
   <tr>
     <th>Actors</th>
     <th>Roles</th>
-    <th>Roles</th>
-    <th>Roles</th>
-    <th>Roles</th>
-    <th>Roles</th>
   </tr>
   <tr>
     <td>Thai Citizen</td>
     <td>Organization Staff</td>
     <td>Admin Staff</td>
-    <td>Eligible Sponsor</td>
-    <td>Police Criminal Record Service</td>
-    <td>Blacklist NGO Database Service</td>
+   
   </tr>
-  
   <tr>
     <td>Thai Citizens can use the services via the website. They are required to authenticate themselves before using the website. They can mark their favorite dog to adopt from the dog list. And request to adopt it.</td>
     <td>Organization staff need to record the dog information into the system since the first day that dog arrived. They are also required to record every dog treatment including recording the practicing program. They need to authenticate the adopter before adopting the dog. They will select the adopter to adopt the dog in case that has many adopters to adopt the dog.</td>
     <td>Admin staff can view the basic report</td>
-    <td>Eligible Sponsors require to register before login to the system to manage their brand manner.</td>
-    <td>Helps confirm the profile of the adopter by sending back their criminal record.</td>
-    <td>Helps confirm the profile of the adopter by sending back their blacklist status.</td>
   </tr>
 </table>
