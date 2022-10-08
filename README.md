@@ -25,6 +25,10 @@
   <tr>
     <th>Actors</th>
     <th>Roles</th>
+    <th>Roles</th>
+    <th>Roles</th>
+    <th>Roles</th>
+    <th>Roles</th>
   </tr>
   <tr>
     <td>Thai Citizen</td>
