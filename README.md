@@ -21,8 +21,8 @@
 [facebook]: https://www.facebook.com/siranut.akarawuthi/
 [linkedin]: https://www.linkedin.com/in/siranut-akarawuthi-8baa301b4/
 
-|      Actors      |                         Roles                         |                                                                                                                                 compressed                                                                                                                                 |
+|      Actors      |                         Roles                         |                                 
 | :--------: | :----------------------------------------------------------: | 
-|  **CSS**   | [🔗](https://unpkg.com/tableexport/dist/css/tableexport.css) |                                                                                                     
+|  **CSS**   | [🔗](https://unpkg.com/tableexport/dist/css/tableexport.css) |                                                                                                    
 |   **JS**   |  [🔗](https://unpkg.com/tableexport/dist/js/tableexport.js)  |                                                                                                     
 | **Images** |                           &mdash;                            |
