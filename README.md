@@ -21,8 +21,8 @@
 [facebook]: https://www.facebook.com/siranut.akarawuthi/
 [linkedin]: https://www.linkedin.com/in/siranut-akarawuthi-8baa301b4/
 
-|            |                         uncompressed                         |                                                                                                                                 compressed                                                                                                                                 |
-| :--------: | :----------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  **CSS**   | [🔗](https://unpkg.com/tableexport/dist/css/tableexport.css) |                                                                                                      [🔗](https://unpkg.com/tableexport/dist/css/tableexport.min.css)                                                                                                      |
-|   **JS**   |  [🔗](https://unpkg.com/tableexport/dist/js/tableexport.js)  |                                                                                                       [🔗](https://unpkg.com/tableexport/dist/js/tableexport.min.js)                                                                                                       |
-| **Images** |                           &mdash;                            | [🔗<sup>xlsx</sup>](https://unpkg.com/tableexport/dist/img/xlsx.svg)[🔗<sup>xls</sup>](https://unpkg.com/tableexport/dist/img/xls.svg)[🔗<sup>csv</sup>](https://unpkg.com/tableexport/dist/img/csv.svg)[🔗<sup>txt</sup>](https://unpkg.com/tableexport/dist/img/txt.svg) |
+|      Actors      |                         Roles                         |                                                                                                                                 compressed                                                                                                                                 |
+| :--------: | :----------------------------------------------------------: | 
+|  **CSS**   | [🔗](https://unpkg.com/tableexport/dist/css/tableexport.css) |                                                                                                     
+|   **JS**   |  [🔗](https://unpkg.com/tableexport/dist/js/tableexport.js)  |                                                                                                     
+| **Images** |                           &mdash;                            |
