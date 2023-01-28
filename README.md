@@ -1,5 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Poko</h1>
 <h3 align="left">I am a Software Engineering Student </h3>
+<img align="right" src="./img/me.png" width="40%">
 
 - :office: &nbsp;I'm currently studying at **[Faculty of ICT, Mahidol University]**
 - :seedling: &nbsp;I’m currently learning **Flutter & Dart**
