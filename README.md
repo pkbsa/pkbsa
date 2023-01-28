@@ -38,37 +38,37 @@
     </td>
     <td align="center" width="96">
       <a href="#program">
-        <img src="./img/dart.svg" width="48" height="48" alt="Golang" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" width="48" height="48" alt="Dart" />
       </a>
       <br>Dart
     </td>
     <td align="center" width="96">
       <a href="#program">
-        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#program">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="Nodejs" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#program" >
-        <img src="./img/react.svg" width="48" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#program">
-        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="program">
-        <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
@@ -76,7 +76,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#program" >
-        <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
+        <img src="https://www.svgrepo.com/show/349342/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -88,33 +88,39 @@
     </td>
     <td align="center"  width="96">
       <a href="#program">
-        <img src="./img/mysql.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
      <td align="center" width="96">
       <a href="#program" >
-        <img src="./img/mongodb.svg" width="48" height="48" alt="React" />
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="48" height="48" alt="mongo" />
       </a>
-      <br>Mongoose
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#program" >
-        <img src="./img/matlab.svg" width="48" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="matlab" />
       </a>
       <br>Matlab
     </td>
     <td align="center" width="96">
       <a href="#program" >
-        <img src="./img/arduino.svg" width="48" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="48" height="48" alt="arduino" />
       </a>
       <br>Arduino
     </td>
     <td align="center" width="96">
       <a href="#program" >
-        <img src="./img/p5js.svg" width="48" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/P5js_Logo.svg" width="48" height="48" alt="p5js" />
       </a>
       <br>p5js
+    </td>
+    <td align="center" width="96">
+      <a href="#program" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="aws" />
+      </a>
+      <br>AWS
     </td>
   </tr>
 </table>
