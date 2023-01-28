@@ -5,6 +5,13 @@
 - :seedling: &nbsp;I’m currently learning **Flutter & Dart**
 - :speech_balloon: &nbsp;I like to talk about **Nodejs** and **PureCSS**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+#### 📫 Social Media:
+<a href="https://www.linkedin.com/in/siranut-akarawuthi-8baa301b4/" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="48" height="48" alt="linkedin" /></a>
+<a href="https://www.instagram.com/pkbs.a/" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="48" height="48" alt="ig" /></a>
+<a href="https://www.tiktok.com/@pokolukgluay" width="96"><img src="https://seeklogo.com/images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png" width="48" height="48" alt="tiktok" /></a>
+<a href="https://www.facebook.com/siranut.akarawuthi/" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" width="48" height="48" alt="fb" /></a>
+
 <hr/>
 <h2 align="left" id="program">Favorite Tech</h2>
 
