@@ -14,7 +14,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#program">
-        <img src="./img/c.svg" width="48" height="48" alt="C" />
+        <img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" width="48" height="48" alt="C" />
       </a>
       <br>C&nbsp;
     </td>
