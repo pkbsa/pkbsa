@@ -32,7 +32,7 @@
     </td>
     <td align="center" width="96">
       <a href="#program">
-        <img src="./img/golang.svg" width="48" height="48" alt="Golang" />
+        <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
