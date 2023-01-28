@@ -20,13 +20,13 @@
     </td>
     <td align="center" width="96">
       <a href="#program">
-        <img src="./img/python.svg" width="48" height="48" alt="Python" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#program">
-        <img src="./img/java.svg" width="48" height="48" alt="Golang" />
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Java
     </td>
