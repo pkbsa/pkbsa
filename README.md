@@ -5,9 +5,7 @@
 - :seedling: &nbsp;I’m currently learning **Flutter & Dart**
 - :speech_balloon: &nbsp;I like to talk about **Nodejs** and **PureCSS**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-
-<br>
-
+<hr/>
 <h2 align="left" id="program">Favorite Tech</h2>
 
 > Tools, languages, and other things that I enjoy working with.
