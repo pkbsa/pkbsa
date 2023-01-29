@@ -20,6 +20,7 @@
   <li>Personal Website : http://pkbsa.com/</li>
   <li>Gluaymunchkin the Cat : http://gluay.pkbsa.com/</li>
   <li>Newyear Raffle Activity : http://www.raffle.pkbsa.com/</li>
+  <li>Comic Characters Search Engine: http://www.superhero.pkbsa.com/</li>
   <li>Movies Platform : http://netgluay.pkbsa.com/</li>
   <li>E-Commerce : http://shopping.pkbsa.com/ <-- Currently Working On</li>
 </ol>
