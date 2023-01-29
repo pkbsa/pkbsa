@@ -21,7 +21,7 @@
   <li>Gluaymunchkin the Cat : http://gluay.pkbsa.com/</li>
   <li>Newyear Raffle Activity : http://www.raffle.pkbsa.com/</li>
   <li>Movies Platform : http://netgluay.pkbsa.com/</li>
-  <li>E-Commerce : http://shopping.pkbsa.com/</li>
+  <li>E-Commerce : http://shopping.pkbsa.com/ <-- Working On</li>
 </ol>
 
 <h4>📢 Feel free to reach out to me if you're interested in creating a website or need any website-related assistance.</h4>
