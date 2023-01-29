@@ -21,7 +21,7 @@
   <li>Gluaymunchkin the Cat : http://gluay.pkbsa.com/</li>
   <li>Newyear Raffle Activity : http://www.raffle.pkbsa.com/</li>
   <li>Movies Platform : http://netgluay.pkbsa.com/</li>
-  <li>E-Commerce : http://shopping.pkbsa.com/ <-- Working On</li>
+  <li>E-Commerce : http://shopping.pkbsa.com/ <-- Currently Working On</li>
 </ol>
 
 <h4>📢 Feel free to reach out to me if you're interested in creating a website or need any website-related assistance.</h4>
@@ -127,7 +127,7 @@
     </td>
     <td align="center" width="96">
       <a href="#program" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="48" height="48" alt="arduino" />
+        <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"  height="48" alt="arduino" />
       </a>
       <br>Arduino
     </td>
