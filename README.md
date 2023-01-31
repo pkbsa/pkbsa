@@ -149,3 +149,9 @@
 
 [Faculty of ICT, Mahidol University]: https://www.ict.mahidol.ac.th/
 [LinkedIn]: https://www.linkedin.com/in/siranut-akarawuthi-8baa301b4/
+
+<hr/>
+
+> Watch my cat rolling
+
+<img src="./gluay.gif" width="100%">
