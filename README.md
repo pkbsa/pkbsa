@@ -22,7 +22,7 @@
   <li>Newyear Raffle Activity : http://raffle.pkbsa.com/</li>
   <li>Comic Characters Search Engine: http://superhero.pkbsa.com/</li>
   <li>Movies Platform : http://netgluay.pkbsa.com/</li>
-  <li>E-Commerce : http://shopping.pkbsa.com/ <-- Currently Working On</li>
+  <li>E-Commerce : http://shopping.pkbsa.com/ </li>
 </ol>
 
 <h4>📢 Feel free to reach out to me if you're interested in creating a website or need any website-related assistance.</h4>
