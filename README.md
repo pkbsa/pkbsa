@@ -4,7 +4,7 @@
 
 - :office: &nbsp;I'm currently studying at **[Faculty of ICT, Mahidol University]**
 - :seedling: &nbsp;I’m currently learning **Flutter & Dart**
-- :speech_balloon: &nbsp;I like to talk about **Nodejs** and **PureCSS**
+- :speech_balloon: &nbsp;I like to talk about **Cats**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 #### 📫 Social Media:
