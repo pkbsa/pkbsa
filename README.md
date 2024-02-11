@@ -19,8 +19,11 @@
   <li>Cannabis Farm & Store : https://ochagarden-nodejs-mer8myl4k-pkbsa.vercel.app/</li>
   <li>Pye Boat Noodles : http://restaurant.pkbsa.com/</li>
   <li>Personal Website : http://pkbsa.com/</li>
-  <li>Gluaymunchkin the Cat : http://gluay.pkbsa.com/</li>
-  <li>Gluay Shop : https://gluaymunchkin.com/</li> (Mobile shop)
+  <li>Jelly Translator : https://replit.com/@siranuta13/JellyTranslator</li>
+  <li>Gluaymunchkin the Cat : http://gluaymunchkin.com/</li>
+  <li>Gluay Shop : https://gluaymunchkin.com/gluayShop (Mobile shop)</li> 
+  <li>Gluay Writing Activity : https://gluaymunchkin.com/gluayStory     (Mobile Web App)</li>
+  <li>Gluay Drawing Contest : https://gluaymunchkin.com/gluayDrawing (Mobile Web App)</li>
   <li>Newyear Raffle Activity : http://raffle.pkbsa.com/</li>
   <li>Comic Characters Search Engine: http://superhero.pkbsa.com/</li>
   <li>Movies Platform : http://netgluay.pkbsa.com/</li>
